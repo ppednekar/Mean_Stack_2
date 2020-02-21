@@ -1,0 +1,22 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Mean stack training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppednekar/Mean_Stack_2.git"
+  },
+  "author": "Pranay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppednekar/Mean_Stack_2/issues"
+  },
+  "homepage": "https://github.com/ppednekar/Mean_Stack_2#readme",
+  "dependencies": {
+    "csvjson": "^5.1.0"
+  }
+}
